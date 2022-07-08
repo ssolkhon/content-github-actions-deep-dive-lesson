@@ -8,5 +8,4 @@ def lambda_handler(event, context):
     Returns:
         string: greeting response
     """
-    print('Starting functions\n---------------------------------------------'
     return "World"
